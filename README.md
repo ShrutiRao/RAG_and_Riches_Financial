@@ -1,3 +1,14 @@
+---
+title: RAG & Riches Financial
+emoji: 🏢
+colorFrom: purple
+colorTo: purple
+sdk: streamlit
+app_file: app.py
+pinned: false
+short_description: A demo of retrieval quality across a financial corpus
+---
+
 # RAG & Riches Financial
 
 A modular Retrieval-Augmented Generation MVP for financial analysts and investors.
