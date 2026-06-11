@@ -1,0 +1,11 @@
+numpy
+pandas
+python-dotenv
+requests
+scikit-learn
+pytest
+streamlit
+pinecone
+langchain
+openai
+llama-parse

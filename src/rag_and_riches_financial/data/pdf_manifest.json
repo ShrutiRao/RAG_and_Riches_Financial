@@ -1,0 +1,70 @@
+{
+  "documents": [
+    {
+      "filename": "SEC Filing 10-K Excerpt.pdf",
+      "doc_id": "pdf-sec-001",
+      "doc_type": "sec_filing",
+      "source_name": "SEC Filing 10-K Excerpt.pdf",
+      "company": "RAG & Riches Financial",
+      "date": "2025-12-31",
+      "section": "Risk Factors",
+      "title": "SEC Filing 10-K Excerpt",
+      "tags": ["sec", "risk", "liquidity"]
+    },
+    {
+      "filename": "SEC Filing (10-K Excerpt #2).pdf",
+      "doc_id": "pdf-sec-002",
+      "doc_type": "sec_filing",
+      "source_name": "SEC Filing (10-K Excerpt #2).pdf",
+      "company": "RAG & Riches Financial",
+      "date": "2025-12-31",
+      "section": "MD&A",
+      "title": "SEC Filing 10-K Excerpt #2",
+      "tags": ["sec", "compliance", "capital"]
+    },
+    {
+      "filename": "Earnings Call Transcript Q4 2025.pdf",
+      "doc_id": "pdf-earnings-001",
+      "doc_type": "earnings_transcript",
+      "source_name": "Earnings Call Transcript Q4 2025.pdf",
+      "company": "RAG & Riches Financial",
+      "date": "2025-12-15",
+      "section": "Prepared Remarks",
+      "title": "Earnings Call Transcript Q4 2025",
+      "tags": ["earnings", "guidance", "margin"]
+    },
+    {
+      "filename": "Earnings Call Transcript Q1 2026.pdf",
+      "doc_id": "pdf-earnings-002",
+      "doc_type": "earnings_transcript",
+      "source_name": "Earnings Call Transcript Q1 2026.pdf",
+      "company": "RAG & Riches Financial",
+      "date": "2026-03-15",
+      "section": "Q&A",
+      "title": "Earnings Call Transcript Q1 2026",
+      "tags": ["earnings", "qa", "growth"]
+    },
+    {
+      "filename": "Insurance Claims and Loan Files.pdf",
+      "doc_id": "pdf-claim-001",
+      "doc_type": "insurance_claim",
+      "source_name": "Insurance Claims and Loan Files.pdf",
+      "company": "RAG & Riches Financial",
+      "date": "2026-03-20",
+      "section": "Adjuster Notes",
+      "title": "Insurance Claims and Loan Files",
+      "tags": ["claim", "reserve", "settlement"]
+    },
+    {
+      "filename": "Insurance Claim and Loan Agreement Samples.pdf",
+      "doc_id": "pdf-loan-001",
+      "doc_type": "loan_document",
+      "source_name": "Insurance Claim and Loan Agreement Samples.pdf",
+      "company": "RAG & Riches Financial",
+      "date": "2026-03-22",
+      "section": "Covenants",
+      "title": "Insurance Claim and Loan Agreement Samples",
+      "tags": ["loan", "covenant", "debt"]
+    }
+  ]
+}
