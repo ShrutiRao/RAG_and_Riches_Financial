@@ -27,7 +27,7 @@ flowchart LR
 
     U[User question]:::user --> UI[Streamlit UI]:::ui
     UI --> S[Sidebar controls<br/>rewrite / rerank / compare]:::ui
-    UI --> R[retrieve_context()]:::retrieval
+    UI --> R["retrieve_context()"]:::retrieval
 
     subgraph Retrieval["Retrieval path"]
         direction LR
@@ -47,7 +47,7 @@ flowchart LR
         EXACT --> CONTEXT
     end
 
-    CONTEXT --> G[generate_answer()]:::answer
+    CONTEXT --> G["generate_answer()"]:::answer
     G --> A[Grounded answer<br/>+ evidence bullets]:::answer
     A --> UI
 
